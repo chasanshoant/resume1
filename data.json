@@ -5,18 +5,40 @@
 "education":[
 {
  "degree":"SSC",
- "school":"college name",
- "data":["2005","90%"]
+ "school":"school name : camford",
+ "data":["2013","90%"]
 },
 {
  "degree":"INTERMEDIATE",
- "school":"college name",
- "data":["2007","80%"]
+ "school":"college name: vivekananda",
+ "data":["2015","80%"]
 },
 {
  "degree":"GRADUATION",
- "school":"COLLEGE NAME",
- "data":["2011","80%"]
+ "school":"COLLEGE NAME: sree vidyanikethan engineering college",
+ "data":["2019","80%"]
 }
-]
+],
+"skills":[
+   {
+     "name":"operating system",
+     "info":["windows","Fedora","ubuntu","redHat"]
+   },
+   {
+     "name":"Languages",
+     "info":["C","C++","Java","Python"]
+   },
+   {
+     "name":"Databases",
+     "info":["Oracle","MySql","cybase"]
+   },
+   {
+     "name":"Web Technologies",
+     "info":["Html","CSS","javascript"]
+   },
+   {
+     "name":"Frameworks",
+     "info":["Bootstrap",".net"]
+   }
+ ]
 }
